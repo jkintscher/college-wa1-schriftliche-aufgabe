@@ -9,6 +9,7 @@
 \usepackage{fancyhdr}
 \usepackage{multicol}
 \usepackage{parskip}
+\usepackage{cite}
 
 \newcommand{\thissemester}{WiSe 13/14}
 \newcommand{\thiscourse}{Prop\"adeutikum Wissenschaftliches Arbeiten 1}
