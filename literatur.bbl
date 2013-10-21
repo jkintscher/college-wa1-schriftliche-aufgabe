@@ -1,0 +1,59 @@
+@article{vergeer2013,
+	AUTHOR = "Vergeer, M.",
+	YEAR = "2013",
+	TITLE = "Politics, elections and online campaigning: Past, present … and a peek into the future.",
+	JOURNAL = "new media & society",
+	VOLUME = "15",
+	NUMBER = "1",
+	PAGES = "9--17"
+},
+
+@article{thiesse2006,
+	AUTHOR = "Thiesse, F.",
+	YEAR = "2006",
+	TITLE = "Integration von RFID in die betriebliche IT-Landschaft.",
+	JOURNAL = "Wirtschaftsinformatik",
+	VOLUME = "48",
+	NUMBER = "3",
+	PAGES = "178--187"
+},
+
+@article{lintu2009,
+	AUTHOR = "Lintu, A.; Steinel, A.",
+	YEAR = "2009",
+	TITLE = "Visualisierung und Erweiterung astronomischer Daten.",
+	JOURNAL = "Informatik-Spektrum",
+	VOLUME = "32",
+	NUMBER = "6",
+	PAGES = "458--465"
+},
+
+@article{bockerman2013,
+	AUTHOR = "Bockerman, I.; Dittert, N.; Schelhowe, H.",
+	YEAR = 2013,
+	TITLE = "Akademische Medienkompetenz: Ein Beispiel aus der universitären Lehre",
+	JOURNAL = "FIfF Kommunikation",
+	VOLUME = "30",
+	NUMBER = "3",
+	PAGES = "45--48"
+},
+
+@inproceedings{temdee2006,
+	AUTHOR = "Temdee, P.; Thipakorn, B.; Sirinaovakul, B.; Schelhowe, H.",
+	YEAR = "2006",
+	TITLE = "Of Collaborative Learning Team: An Approach for Emergent Leadership Roles Identiﬁcation by Using Social Network Analysis",  
+	EDITOR = "Pan, Z.; Aylett, R.; Diener, H.; Jin, X.; Göbel, S.; Li L.",
+	BOOKTITLE = "Lecture Notes in Computer Science",
+	VOLUME = "Band 3942",
+	ADDRESS = "Hangzhou",
+	ORGANIZATION = "First International Conference",
+	PAGES = "745--754"
+},
+
+@misc{haas2006,
+	AUTHOR = "Haas, P.; Holzinger, S.; u.a.",
+	YEAR = "2006",
+	TITLE = "Weizenbaum: rebel at work”,
+	ADDRESS = "Wien",
+	PUBLISHER = "Il Mare Film"
+}
