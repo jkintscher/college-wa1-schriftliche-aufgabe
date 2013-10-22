@@ -1,6 +1,7 @@
 *.aux
 *.blg
 *.pdf
+!aufgabe.pdf
 *.log
 *.gz
 *.bbl
