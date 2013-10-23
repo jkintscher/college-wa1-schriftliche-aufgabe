@@ -112,7 +112,7 @@ Da diese bei Wikipedia jedoch meist unbekannt ist, verlassen sich Menschen oefte
 
 Auf Grund des Open Source Charakters von Wikipedia ist es oftmals schwierig, den genauen Urheber einer Aussage bzw. eines Artikels aufindig zu machen *(Waters, N. 2007)*.
 Da man also die Qualität eines Eintrages selten am Autor festmachen kann, spielen bei der Evaluation haeufig andere, jedoch gleichzeitig irreführende Faktoren, wie z.B. die Verwendung von Medien, eine Rolle. *(Lucassen, T. 2010)*.
-Durch den sehr hohen Suchrank einzelner Artikel bei Google landen viele Leser meist doch bei Wikipedia *(Walter, N. 2007)*.
+Durch den sehr hohen Suchrank einzelner Artikel bei Google landen viele Leser meist doch bei Wikipedia *(Waters, N. 2007)*.
 
 Aus unserer Praxiserfahrung heraus kommen wir zu dem Schluss, dass Wikipedia als direkte, wissenschaftliche Quelle nicht geeignet ist. Allerdings bietet Wikpiedia einen guten Einstiegspunkt in die weiterfuehrende Recherche und dient als Ueberblick ueber ein noch unbekannten Thema.
 
