@@ -20,5 +20,5 @@ kannst Du diese auch direkt aus der Shell heraus öffnen:
 
     $ open loesung.pdf
 
-(Die neuste Version des PDFs findest Du auch stets im Ordner [/dist](https://github.com/jkintscher/wa-aufgabe/tree/master/lib), sodass es
+(Die neuste Version des PDFs findest Du auch stets im Ordner [/dist](https://github.com/jkintscher/wa-aufgabe/tree/master/dist), sodass es
 nicht zwangslaeufig notwendig ist, das Projekt selbst zu kompilieren.)
