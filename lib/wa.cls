@@ -11,6 +11,7 @@
 \usepackage{parskip}
 
 \usepackage{enumitem}
+\usepackage{graphicx}
 
 \newcommand{\thissemester}{WiSe 13/14}
 \newcommand{\thiscourse}{Prop\"adeutikum Wissenschaftliches Arbeiten 1}
