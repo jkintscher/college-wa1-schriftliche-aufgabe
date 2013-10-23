@@ -13,5 +13,4 @@ Zum Kompilieren und Anzeigen des Projekts führe in Deiner Konsole einfach Folge
 
 Danach findest Du im Projektorder die Datei `loesung.pdf`. Der Einfachheithalber kannst Du diese auch direkt aus der Shell heraus öffnen:
 
-    $ open loesung.pgf
-
+    $ open loesung.pdf
