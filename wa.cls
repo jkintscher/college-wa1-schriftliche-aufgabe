@@ -9,7 +9,8 @@
 \usepackage{fancyhdr}
 \usepackage{multicol}
 \usepackage{parskip}
-\usepackage{cite}
+
+\usepackage{enumitem}
 
 \newcommand{\thissemester}{WiSe 13/14}
 \newcommand{\thiscourse}{Prop\"adeutikum Wissenschaftliches Arbeiten 1}
@@ -31,8 +32,8 @@
 
 \begin{tabular}{l}
 {#1} \textit{\scriptsize{{#2}}} \\
-{#3} \textit{\scriptsize{{#4}}} \\ 
-{#5} \textit{\scriptsize{{#6}}} 
+{#3} \textit{\scriptsize{{#4}}} \\
+{#5} \textit{\scriptsize{{#6}}}
 \end{tabular}
 &
 \begin{tabular}{ll}
